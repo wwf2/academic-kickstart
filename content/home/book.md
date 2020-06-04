@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = "Book"
 subtitle = ""
@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 <img style="text-align: center; width: 80%; height: auto" src="img/BookCover.jpg" alt="Book Cover"/>
-  
+<br/>
   
 In my new book co-authored with Chris Witko, *The New Economic Populism: How States Respond to Economic Inequality* ([Oxford](https://global.oup.com/academic/product/the-new-economic-populism-9780190671013?cc=us&lang=en&) | [Amazon](https://www.amazon.com/New-Economic-Populism-Respond-Inequality/dp/0190671017)), we argue that the U.S. government's failure to address rising income inequality should not be very surprising since federal inaction in the face of emerging economic problems is the norm in American history. The states led the fight against new economic problems during the Progressive Era and Great Depression, and it is likely that we will once again have to rely on the states to address today's massive gap between the rich and the poor. We show that the public is cognizant of rising inequality and that this growing awareness is associated with more egalitarian political and policy changes. In contrast to the prevailing pessimism regarding income inequality, we suggest that if history is a guide these incipient state actions to reduce inequality are likely to spread to other states and even the federal government in the coming decades.
 
