@@ -93,7 +93,7 @@ phone = "(216) 505-0015"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = "Department of Political Science, West Virginia University, 316 Woodburn Hall, Morgantown, WV 26506"
+address = {street = "Department of Political Science, 316 Woodburn Hall", city = "Morgantown", region = "WV", postcode = "26506", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
