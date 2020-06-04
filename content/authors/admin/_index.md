@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor Department of Political Science
+role: Associate Professor <br>Department of Political Science
 
 # Organizations/Affiliations
 organizations:
