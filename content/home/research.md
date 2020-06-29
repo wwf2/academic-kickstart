@@ -63,6 +63,8 @@ subtitle = ""
 
 [How State Responses to Economic Crisis Shape Income Inequality and Financial Well-Being.](https://journals.sagepub.com/doi/10.1177/1532440020919806) William W. Franko. Forthcoming. State Politics & Policy Quarterly.
 
+  - *[Article](https://journalistsresource.org/studies/economics/inequality/income-inequality-budget-cuts-coronavirus-recession/) based on this research at Journalist’s Resource.*
+
 [Economic Segregation and Public Support for Redistribution.](https://www.tandfonline.com/doi/full/10.1080/03623319.2020.1727223) William W. Franko and Avery C. Livingston. Forthcoming. The Social Science Journal.
 
 [Economic Segregation and Unequal Policy Responsiveness.](https://doi.org/10.1007/s11109-018-09522-9) Patrick Flavin and William W. Franko. Forthcoming. Political Behavior.
