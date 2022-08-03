@@ -61,6 +61,10 @@ subtitle = ""
 
 ## Journal Articles
 
+[Class, Policy Attitudes and U.S. Presidential Voting in the Post-Industrial Era: The Importance of Issue Salience.]() William W. Franko and Christopher Witko. Forthcoming. Political Research Quarterly.
+
+[Unions, Class Identification and Policy Attitudes.]() William W. Franko and Christopher Witko. Forthcoming. The Journal of Politics.
+
 [How State Responses to Economic Crisis Shape Income Inequality and Financial Well-Being.](https://journals.sagepub.com/doi/10.1177/1532440020919806) William W. Franko. 2021. State Politics & Policy Quarterly.
 
   - *[Article](https://journalistsresource.org/studies/economics/inequality/income-inequality-budget-cuts-coronavirus-recession/) based on this research at Journalist’s Resource.*
