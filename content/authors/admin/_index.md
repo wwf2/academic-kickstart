@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Director of Graduate Studies <br>Associate Professor <br>Department of Political Science
+role: Associate Professor <br>Director of Graduate Studies <br>Department of Political Science
 
 # Organizations/Affiliations
 organizations:
