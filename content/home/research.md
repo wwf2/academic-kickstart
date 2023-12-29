@@ -61,9 +61,13 @@ subtitle = ""
 
 ## Journal Articles
 
-[Class, Policy Attitudes and U.S. Presidential Voting in the Post-Industrial Era: The Importance of Issue Salience.]() William W. Franko and Christopher Witko. Forthcoming. Political Research Quarterly.
+[Class, Policy Attitudes and U.S. Presidential Voting in the Post-Industrial Era: The Importance of Issue Salience.](https://journals.sagepub.com/doi/10.1177/10659129221120226) William W. Franko and Christopher Witko. 2023. Political Research Quarterly.
 
-[Unions, Class Identification and Policy Attitudes.]() William W. Franko and Christopher Witko. Forthcoming. The Journal of Politics.
+  - *[Article](https://medium.com/3streams/class-still-matters-for-policy-attitudes-and-voting-but-its-complicated-a82e25d28c4f) based on this research at 3Streams.*
+
+[Unions, Class Identification and Policy Attitudes.](https://www.journals.uchicago.edu/doi/10.1086/722347) William W. Franko and Christopher Witko. 2023. The Journal of Politics.
+
+  - *[Article](https://medium.com/3streams/do-unions-cause-people-to-identify-as-working-class-4f27d0d6835f) based on this research at 3Streams.*
 
 [How State Responses to Economic Crisis Shape Income Inequality and Financial Well-Being.](https://journals.sagepub.com/doi/10.1177/1532440020919806) William W. Franko. 2021. State Politics & Policy Quarterly.
 
